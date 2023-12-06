@@ -10946,6 +10946,8 @@ html {
   line-height: 50px;
   z-index: 999;
 }
+
+
 .menu-toggle:focus, .menu-toggle:hover {
   color: #fff;
 }
@@ -11011,6 +11013,8 @@ footer.footer .social-link:hover {
     position: relative;
     display: table;
     width: 100%;
+    top: 90px;
+    right: 10px;
     height: auto;
     padding-top: 8rem;
     padding-bottom: 8rem;
